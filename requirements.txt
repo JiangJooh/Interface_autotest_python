@@ -1,0 +1,6 @@
+pymysql
+unittestreport
+pymysql
+jsonpath
+PyYAML
+requests
